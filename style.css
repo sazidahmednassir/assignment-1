@@ -30,9 +30,10 @@ p{
 }
 
 .half-width{
-    width: 50%;
-    padding-left: 10%;
-    margin: 2%;
+    width:80%;
+    
+    padding-left: 80px;
+   
 }
 
 .half-width img{
@@ -87,7 +88,7 @@ p{
     width: 50%;
 }
 
-.experience-item{
+.mission-item{
     width:40%;
     margin-left:6%;
     margin-right:6%;
@@ -96,6 +97,11 @@ p{
     border-radius:10px;
     
     
+}
+
+
+.pa{
+    padding-right: 200px;
 }
 
 .mission-bgcolor1{
@@ -108,5 +114,30 @@ p{
 }
 
 .mission-bgcolor3{
-    background-color: #FEF9E7;
+    background-color: #F9E79F;
+}
+
+
+.pa{
+  padding-left: 0;
+}
+
+
+.goal{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.coding-img{
+    width: 100%;
+    padding-left:100px;
+}
+
+
+.practice{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    
 }
